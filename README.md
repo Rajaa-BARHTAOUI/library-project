@@ -4,8 +4,8 @@ To get the application running locally:
 
 - Clone this repo
 - `yarn` to install all req'd dependencies
-- `yarn start` to start local servers (frontend & backend)
-- Open [http://localhost:3009](http://localhost:3009) to view it in the browser
+- `yarn start` to start local server
+- Open [http://localhost:3000](http://localhost:3000) to view it in the browser
 
 This project uses:
 
